@@ -1,4 +1,4 @@
-# AI2-Predicting_RealEstate_Prices
+# AI-Real-Estate-Price-Forecast-Project
 
  
 This project demonstrates a Multiple Linear Regression model using a dataset related to real estate prices. The model is built using Python with the `pandas` and `sklearn` libraries. The dataset includes information on the area of the property, the number of rooms, the age of the building, and the price of the property.
